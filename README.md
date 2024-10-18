@@ -1,4 +1,12 @@
 # ZEPTO_PRAPTIMISHRA
+# KPI'S required to build the ZEPTO dashboard
+## 1. Total Sales 
+## 2.Average Sales
+## 3.Number of items
+## 4.Average Rating
+
+
+
 # Chart Requirements to build the ZEPTO dashboard
 
 ## 1. Total Sales by Fat Content
