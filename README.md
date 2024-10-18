@@ -1,8 +1,5 @@
 # ZEPTO_PRAPTIMISHRA
-![zepto overall dashboard]
-
-
-(https://github.com/user-attachments/assets/50c18df2-c272-47e6-8fef-cfb10e81329f)
+![zepto overall dashboard](https://github.com/user-attachments/assets/50c18df2-c272-47e6-8fef-cfb10e81329f)
 
 
 
