@@ -1,4 +1,24 @@
 # ZEPTO_PRAPTIMISHRA
+![zepto overall dashboard](https://github.com/user-attachments/assets/50c18df2-c272-47e6-8fef-cfb10e81329f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # KPI'S required to build the ZEPTO dashboard
 ## 1. Total Sales 
 ## 2.Average Sales
