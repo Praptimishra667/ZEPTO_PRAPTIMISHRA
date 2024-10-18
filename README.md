@@ -39,3 +39,23 @@
 ## 7. All Metrics by Outlet Type
 - **Objective:** Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 - **Chart Type:** Matrix Card.
+
+
+
+
+
+
+
+
+
+
+
+
+
+![zepto overall dashboard](https://github.com/user-attachments/assets/50c18df2-c272-47e6-8fef-cfb10e81329f)
+
+
+
+
+
+
